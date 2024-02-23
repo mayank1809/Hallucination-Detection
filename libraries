@@ -1,0 +1,9 @@
+libraries_used = [
+    "tkinter",  # Python's standard GUI toolkit
+    "filedialog from tkinter",  # Dialog window for selecting files
+    "pandas",  # Data manipulation and analysis library
+    "TfidfVectorizer from sklearn.feature_extraction.text",  # Convert text documents to TF-IDF features
+    "LogisticRegression from sklearn.linear_model",  # Logistic regression classifier
+    "train_test_split from sklearn.model_selection",  # Split dataset into train and test sets
+    "accuracy_score from sklearn.metrics"  # Calculate accuracy of the model
+]
